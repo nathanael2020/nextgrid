@@ -17,6 +17,7 @@ gem 'bootstrap-sass'
 gem 'high_voltage'
 gem 'pg'
 gem 'simple_form'
+gem 'mail_form'
 gem 'unicorn'
 gem 'unicorn-rails'
 group :development do
